@@ -15,3 +15,5 @@ https://raw.githubusercontent.com/superbigmonster/Surge-rules/main/Netflix.list
 
 https://raw.githubusercontent.com/superbigmonster/Surge-rules/main/Disney.list
 
+https://raw.githubusercontent.com/superbigmonster/Surge-rules/main/CNN.list
+
