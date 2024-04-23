@@ -1,0 +1,4 @@
+payload:
+  - '+.nssurge.com' 
+  - '+.heygen.com'
+  - '+.googleadservices.com'
