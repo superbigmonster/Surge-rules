@@ -2,3 +2,5 @@ payload:
   - '+.nssurge.com' 
   - '+.heygen.com'
   - '+.googleadservices.com'
+  - '+.freeswitch.org'
+
