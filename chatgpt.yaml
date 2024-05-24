@@ -28,4 +28,3 @@ payload:
  - IP-CIDR,129.213.0.0/16,no-resolve
  - IP-CIDR,193.122.142.209/32,no-resolve
  - IP-CIDR,132.145.155.39/32,no-resolve
- - IP-ASN,20473,no-resolve
