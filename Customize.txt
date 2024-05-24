@@ -4,4 +4,5 @@ payload:
   - '+.googleadservices.com'
   - '+.freeswitch.org'
   - '+.mlspin.com'
+  - '+.redfin.com'
 
