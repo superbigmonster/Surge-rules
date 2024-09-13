@@ -1,2 +1,3 @@
 payload:
   - '+.mlspin.com'
+  - '+.adt.com'
