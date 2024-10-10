@@ -7,4 +7,5 @@ payload:
   - '+.dubicars.com'
   - '+.moengage.com'
   - '+.orbstack.dev'
+  - '+.jossandmain.com'
 
