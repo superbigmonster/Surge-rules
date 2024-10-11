@@ -8,4 +8,5 @@ payload:
   - '+.moengage.com'
   - '+.orbstack.dev'
   - '+.jossandmain.com'
+  - '+.vuejs.org'
 
