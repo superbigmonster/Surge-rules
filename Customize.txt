@@ -9,4 +9,5 @@ payload:
   - '+.orbstack.dev'
   - '+.jossandmain.com'
   - '+.vuejs.org'
+  - '+.cotosen.com'
 
