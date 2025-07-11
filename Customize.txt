@@ -11,4 +11,5 @@ payload:
   - '+.vuejs.org'
   - '+.cotosen.com'
   - '+.greasyfork.org'
+  - '+.riolearn.org'
 
