@@ -2,7 +2,7 @@ payload:
  - DOMAIN,volte.fdclouds.com
  - DOMAIN,volte-business.unisk.cn
  - DOMAIN,ivvr.unisk.cn
- - DOMAIN,vvr-uat.unisk.cn
+ - DOMAIN,ivvr-uat.unisk.cn
  - IP-CIDR,116.142.243.82/32,no-resolve
  - IP-CIDR,122.143.21.214/32,no-resolve
  - IP-CIDR,218.11.12.77/32,no-resolve
